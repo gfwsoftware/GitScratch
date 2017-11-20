@@ -26,7 +26,9 @@ class ViewController: UIViewController {
         // This is a change
     }
     
-    
+    func moreChanges() {
+        // changes
+    }
 
 }
 

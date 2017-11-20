@@ -30,5 +30,9 @@ class ViewController: UIViewController {
         // changes
     }
 
+    func secondBranchChanges() {
+        //whatever
+    }
+    
 }
 
